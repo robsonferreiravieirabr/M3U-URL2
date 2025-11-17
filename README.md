@@ -1,56 +1,58 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl3bDNxcjBobnowMXNoNG5oN25tOXZkMTdqbDcwZHk2Y3kxenE3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Computer man" style="width:350px;height:200px;">
+![d19d7fcff6434c017733e12393f43ddd](https://github.com/user-attachments/assets/730b618a-11d7-47a7-8f14-165c39dc0276)
 
-# IPTV Brasil 2025 - Canais, Filmes e Séries
-### <i class="fa-brands fa-pix">
-"Só tem o direito de criticar aquele que pretende ajudar." - Abraham Lincoln
+GLOBOPLAY+TELECINE+PRIMEVIDEO+PREMIERE+NETFLIX+HBOMAX+DISNEY+STAR+APPLETV+PARAMOUNT
+
+lista iptv Atualizadas Grátis para Você! Quer canais fechados, filmes e séries sem pagar nada Todo dia liberamos lista iptv fresquinhas para você aproveitar no celular, TV Box, computador ou Smart TV! perca tempo! Tenha acesso às listas mais completo atualizadas, direto no seu dispositivo Diversão garantida 100% gratuita
 ### Estou disponibilizando os programas que uso na Tv box e no celular (Android).
+⚫️ DISPOSITIVOS COMPATÍVEIS
+📌🔘📺𝐒𝐌𝐀𝐑𝐓 𝐓𝐕  📌🔘📺𝐓𝐕 𝐁𝐎𝐗  📌🔘📺𝐓𝐕 𝐀𝐍𝐃𝐑𝐎𝐈𝐃  📌🔘📺𝐓𝐕 𝐑𝐎𝐊𝐔 📌🔘📱𝐂𝐄𝐋𝐔𝐋𝐀𝐑  📌🔘💻𝐍𝐎𝐓𝐄𝐁𝐎𝐎𝐊 📲 WhatsApp 🟢 PEÇA SEU TESTE: 👉 71 98453-5585 👉 @iptvatmosp2p
+🌟PROMOÇÃO ATMOS IPTV🌟  🎁 6 HORAS DE TESTE GRÁTIS 💚 PLANOS COM 2️⃣ ACESSOS 💰 R$ 20,00 MENSAL 💰 R$ 50,00 TRIMESTRAL 💰 R$ 90,00 SEMESTRAL 💰 R$ 170,00 ANUAL
+Suporte das 8h30 as 19h30 de Segunda a Sábado Listas IPTV sempre atualizadas Canais abertos, filmes, séries e esportes.
 
-* 👉 <a href="https://www.mediafire.com/file/4j3fkiyxbmzqlsc/IPTV_Smarters_Pro_v4.0.3_.apk/file" download="filename">Clique aqui para baixar no Android-Versão 2024 Premium</a>
+👨‍💻 Web Player iptvsmarters(01)
 
-* 👉 <a href="https://tinyurl.com/ycy6wfyp" download="filename">Clique aqui para baixar no Windows</a> 
+http://webtv.iptvsmarters.com/switchuser.php?adduser
 
-### <a href="https://www.virustotal.com" download="filename">Conferir a confiabilidade dos aplicativos no VirusTotal</a> 
-#
+👨‍💻 Web Player iptvsmarters pro (02)
 
-# 👍 Contribuições 
- Se você gosta dos meus projetos, considere fazer uma pequena doação.
+http://webtv-new.iptvsmarters.com/
 
- Chave pix ❖  {<a href="LINK" download="filename">6cbc20f2-8b99-4b60-9b76-292f377fa27d</a>}
- 
-##
 
- ### <i class="fa-brands fa-pix">
-⚠️ Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
-# 📡 Painel Iptv
+👨‍💻 Web Player iptvblinkplayer (03)
 
-  👨‍💻 Web Player iptvplayer.stream
+http://webtv.iptvblinkplayer.com/
 
- http://app.iptvplayer.stream
 
-  👨‍💻 Web Player iptvsmarters(01)
+👨‍💻 Xtream Data Extractor - IPTV Template | WordPress IPTV Templates (04)
 
- http://webtv.iptvsmarters.com/index.php?adduser
+https://www.iptvwell.com/xtream-data-extractor/ 
 
-  👨‍💻 Web Player iptvsmarters(02)
 
- http://webtv.iptvblinkplayer.com/
+M3U URL Converter (05)
+
+https://www.iptvwell.com/m3u-url-converter/
+
+
+Internet speed test (06)
+
+https://www.iptvwell.com/internet-speed-test/
 
 Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
-###
-#
-
-
-## Contas Para o Painel Iptv
-| Qualquer nome   | Login                  | Senha                                 |      Url                               |
-|-----------------|------------------------|---------------------------------------|----------------------------------------|
-| Iptv1  | `ere3444h`                      |`agape`                                |  http://tooontv.com:999       |
-| Iptv2  | `YKb44BNfjaAg`                  |`Z6GRGPUMT3R4`                         |  http://tvlatino.club:2082    |
-| Iptv3  | `Q3sdXWJw8Kxxx22222`            |`pKefJHyVKExxxxxxxxa12`                |  http://vivofibra.uk:80       |
-| Iptv4  | `cQnq6G`                        |`652882`                               |  http://cord-cutter.net:8080  |
-| Iptv5  | `Tonyp`                         |`yPKEJfH4Nh`                           |  http://5startv.xyz:8080      |
-#
-
-
-
-
+## Contas Para o Painel Iptv                                                              
+| Qualquer nome   | Username               |Password                               |URL                                     |
+|-----------------|------------------------|---------------------------------------|----------------------------------------|                  
+| LISTA IPTV (01) |484134749               |328285662                              |http://trexth.xyz:80                    |
+| LISTA IPTV (02) |64364184                |22749197                               |http://newoneblack.site                 |
+| LISTA IPTV (03) |727898485695            |329965491760                           |http://lideboxr.store:80                |
+| LISTA IPTV (04) |4938258529              |2944155744                             |http://maisonxp.click:8080              |
+| LISTA IPTV (05) |valmir                  |valmir                                 |http://dgpro.cloud:80                   |
+| LISTA IPTV (06) |794498560               |398266515                              |http://d.plmv.site                      |
+| LISTA IPTV (07) |11982237031             |luciano                                |http://ibo.playmove.org                 |
+| LISTA IPTV (08) |438349145               |867766897                              |http://srv3.site                        |
+| LISTA IPTV (09) |carloscostaveras        |99145880                               |http://dns.whazersnew.store             |
+| LISTA IPTV (10) |9841434432              |8348637187                             |http://dnsit.click:80                   |
+| LISTA IPTV (11) |969003341029            |006662669402                           |http://prata23.shop                     |
+| LISTA IPTV (12) |Rivelino6372            |zt6325                                 |http://cvc123.com                       |
+| LISTA IPTV (13) |21979983532             |thiago0102                             |http://dns.clientetv.net                |                    
+| LISTA IPTV (14) |testejorge              |jorge112233                            |http://alpacinoo.com                    |
